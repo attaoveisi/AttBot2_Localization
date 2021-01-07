@@ -40,6 +40,5 @@ roslaunch hector_slam_launch tutorial_tif.launch
 
 ![til](https://media.giphy.com/media/5yUlEXMS6K7d195qZ3/giphy.gif)
 
-![til](https://giphy.com/gifs/AeeQCAKlcn99xEH6fw/html5)
-
+https://giphy.com/gifs/AeeQCAKlcn99xEH6fw
 
