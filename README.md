@@ -2,8 +2,14 @@
 The repository is a benchmark for localizing AttBot2.0 using robot_localization package. The package consists of the following main packages:
 
   -**Rosserial:** This is used for interfacing with an Arduino Due board which delivers the raw `/odom` and `/imu_data` messages as topic to ROS environment.
+  
+  
   -**Robot_localization:** This is the fusion stack that combines the measurements and delivers the filtered odometry in `robot_ekf/odom_combined` topic.
+  
+  
   -**hector_slam:** for SLAM purposes, and generating a map as well as the `/pose` in the map.
+  
+  
   -**RPLidar_ros:** this is the driver of the Lidar
 
 ## The localization logic:
