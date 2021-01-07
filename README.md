@@ -13,7 +13,7 @@ The repository is a benchmark for localizing AttBot2.0 using robot_localization 
   -**RPLidar_ros:** this is the driver of the Lidar
   
   
-![Alt Text](https://giphy.com/gifs/AeeQCAKlcn99xEH6fw)
+![gif](https://giphy.com/gifs/AeeQCAKlcn99xEH6fw)
 
 
 ## The localization logic:
