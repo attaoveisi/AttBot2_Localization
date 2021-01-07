@@ -12,12 +12,6 @@ The repository is a benchmark for localizing AttBot2.0 using robot_localization 
   
   -**RPLidar_ros:** this is the driver of the Lidar
   
-  
-![til](https://media.giphy.com/media/AeeQCAKlcn99xEH6fw/giphy.gif)
-
-
-
-
 ## The localization logic:
 
 An extended kalman filter fuses the odometry and imu data. The IMU data is measured by a Bosch BNO055 sensor while the odometry is the fused result from two motor encoders, a GY-85 (gyro, compass, imu), and an single track model.
@@ -46,5 +40,6 @@ roslaunch hector_slam_launch tutorial_tif.launch
 
 ![til](https://media.giphy.com/media/5yUlEXMS6K7d195qZ3/giphy.gif)
 
+![til](https://media.giphy.com/media/AeeQCAKlcn99xEH6fw/giphy.gif)
 
 
