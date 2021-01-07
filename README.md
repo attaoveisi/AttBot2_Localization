@@ -44,6 +44,7 @@ roslaunch rplidar_ros rplidar.launch
 roslaunch hector_slam_launch tutorial_tif.launch
 ```
 
-enjoy.
+![til](https://media.giphy.com/media/5yUlEXMS6K7d195qZ3/giphy.gif)
+
 
 
